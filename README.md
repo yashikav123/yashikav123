@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashikav123&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # 🧠 LeetCode Stats:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yashikavasu?theme=dark&font=Source%20Code%20Pro&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/yashikavasu20?theme=dark&font=Source%20Code%20Pro&ext=contest)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
