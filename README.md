@@ -1,5 +1,9 @@
 # 💫 About Me:
 🎯 Full Stack Developer | Lifelong Learner | Code Enthusiast  <br>🚀 Final-year Computer Science & Design student at Kongu Engineering College**  <br>💻 Passionate about building full-stack web applications  <br>🔍 Skilled in manual and API testing using Postman<br>🛠️ Proficient in core development tools like React, Node.js, and MongoDB
+<p align="center">
+  <img src="github-header-image.png" alt="Header" />
+</p>
+
 
 
 ## 🌐 Socials:
