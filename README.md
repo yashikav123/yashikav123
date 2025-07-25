@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**yashikav123/yashikav123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently lear# 💫 About Me:
+# 💫 About Me:
 🎯 Full Stack Developer | Lifelong Learner | Code Enthusiast  <br>🚀 Final-year Computer Science & Design student at Kongu Engineering College**  <br>💻 Passionate about building full-stack web applications  <br>🔍 Skilled in manual and API testing using Postman<br>🛠️ Proficient in core development tools like React, Node.js, and MongoDB
 
 
@@ -26,11 +18,4 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=yashikav123&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->ning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
